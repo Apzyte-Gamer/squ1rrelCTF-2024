@@ -31,6 +31,4 @@ m = M ** (1/3)
 print(long_to_bytes(int(m)))
 ```
 
-We can run this to get the flag!
-
 `squ1rrel{math_is_too_powerful_1q3y41t1s98u23rf8}`
