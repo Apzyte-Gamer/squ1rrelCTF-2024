@@ -4,6 +4,7 @@ Lazy RSA  (263 solves / 110 points)
 Generating primes is too hard, but I did find a couple posted online!
 
 File - [lazyrsa.txt](./lazyrsa.txt)
+
 Author - bunny
 
 Solution
